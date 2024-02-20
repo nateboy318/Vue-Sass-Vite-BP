@@ -48,5 +48,3 @@ Contributions are always welcome! Please read the contribution guidelines first.
 
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-Remember to replace placeholder URLs and paths (https://github.com/yourusername/vue-vite-sass-boilerplate.git, LICENSE.md, etc.) with actual ones pertaining to your project. This will guide users from installation to running their first development server, and how to build for production.
