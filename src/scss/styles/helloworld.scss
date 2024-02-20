@@ -1,0 +1,13 @@
+.HelloWorld {
+  max-width: 800px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin: 50px auto;
+  text-align: center;
+
+  h1 {
+    margin: 0;
+  }
+}
