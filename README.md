@@ -13,7 +13,7 @@ npm/yarn
 Getting Started
 Follow these steps to get started with this boilerplate:
 
-1. Clone the repository
+1. Clone the repository    
 bash
 Copy code
 git clone https://github.com/yourusername/vue-vite-sass-boilerplate.git
