@@ -21,17 +21,21 @@ git clone https://github.com/yourusername/vue-vite-sass-boilerplate.git
 cd vue-vite-sass-boilerplate
 ```
 3. Install dependencies
-bash
-Copy code
+```sh  
 npm install
+ ```
 # or if you use yarn
+```sh
 yarn install
+```
 3. Run the development server
-bash
-Copy code
+```sh
 npm run dev
-# or
+```
+or
+```sh
 yarn dev
+```
 This command serves your app at http://localhost:3000 and provides you with HMR out of the box.
 
 Building for production
