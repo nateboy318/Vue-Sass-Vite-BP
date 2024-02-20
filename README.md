@@ -3,9 +3,13 @@
 Welcome to the Vue Vite SASS Boilerplate - your one-stop solution for kickstarting high-performance web applications with a sleek design. This boilerplate combines the reactivity of Vue.js, the blazing-fast hot module replacement (HMR) of Vite, and the powerful styling capabilities of SASS, setting you up for a development experience that's not only efficient but also delightful.
 
 ## Features
+
 Vue 3 - Leverage the Composition API, Vue Router, and Vuex for state-of-the-art frontend architecture.
+
 Vite - Enjoy out-of-the-box fast HMR and optimized build times.
+
 SASS - Write maintainable, scalable, and easy-to-understand CSS.
+
 ### Prerequisites
 
 Before you begin, ensure you have the following installed on your system:
