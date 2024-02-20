@@ -1,11 +1,11 @@
-Vue Vite SASS Boilerplate
+# Vue Vite SASS Boilerplate
 Welcome to the Vue Vite SASS Boilerplate - your one-stop solution for kickstarting high-performance web applications with a sleek design. This boilerplate combines the reactivity of Vue.js, the blazing-fast hot module replacement (HMR) of Vite, and the powerful styling capabilities of SASS, setting you up for a development experience that's not only efficient but also delightful.
 
-Features
+## Features
 Vue 3 - Leverage the Composition API, Vue Router, and Vuex for state-of-the-art frontend architecture.
 Vite - Enjoy out-of-the-box fast HMR and optimized build times.
 SASS - Write maintainable, scalable, and easy-to-understand CSS.
-Prerequisites
+### Prerequisites
 Before you begin, ensure you have the following installed on your system:
 
 Node.js (v12.x or later)
@@ -13,12 +13,14 @@ npm/yarn
 Getting Started
 Follow these steps to get started with this boilerplate:
 
-1. Clone the repository    
+1. Clone the repository
+ ```sh  
 bash
 Copy code
 git clone https://github.com/yourusername/vue-vite-sass-boilerplate.git
 cd vue-vite-sass-boilerplate
-2. Install dependencies
+```
+3. Install dependencies
 bash
 Copy code
 npm install
